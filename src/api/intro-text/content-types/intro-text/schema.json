@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "intro_texts",
+  "info": {
+    "singularName": "intro-text",
+    "pluralName": "intro-texts",
+    "displayName": "Intro text",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "introduction": {
+      "type": "text"
+    }
+  }
+}

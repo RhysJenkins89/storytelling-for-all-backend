@@ -1,0 +1,19 @@
+{
+  "kind": "singleType",
+  "collectionName": "main_titles",
+  "info": {
+    "singularName": "main-title",
+    "pluralName": "main-titles",
+    "displayName": "Main title",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
